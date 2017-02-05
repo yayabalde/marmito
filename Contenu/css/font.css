@@ -1,0 +1,38 @@
+/* blog css */
+
+@font-face {
+    font-family: 'nadallnormal';
+    src: url('../fonts/nadal/nadall-webfont.woff2') format('woff2'),
+         url('../fonts/nadal/nadall-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'b_sidetrial';
+    src: url('../fonts/bside/bside___-webfont.woff2') format('woff2'),
+         url('../fonts/bside/bside___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'b_sidetrial';
+    src: url('../fonts/b_prahara/bside___-webfont.woff2') format('woff2'),
+         url('../fonts/b_prahara/bside___-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'b_prahara_th_tlsn_tgnregular';
+    src: url('../fonts/b_prahara/b_prahara_th_tlsn_tgn-webfont.woff2') format('woff2'),
+         url('../fonts/b_prahara/b_prahara_th_tlsn_tgn-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
